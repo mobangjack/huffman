@@ -1,0 +1,122 @@
+﻿original source:
+　My father was a self-taught mandolin player. He was one of the best string instrument players in our town. He could not read music, but if he heard a tune a few times, he could play it. When he was younger, he was a member of a small country music band. They would play at local dances and on a few occasions would play for the local radio station. He often told us how he had auditioned and earned a position in a band that featured Patsy Cline as their lead singer. He told the family that after he was hired he never went back. Dad was a very religious man. He stated that there was a lot of drinking and cursing the day of his audition and he did not want to be around that type of environment.　　Occasionally, Dad would get out his mandolin and play for the family. We three children: Trisha, Monte and I, George Jr., would often sing along. Songs such as the Tennessee Waltz, Harbor Lights and around Christmas time, the well-known rendition of Silver Bells. "Silver Bells, Silver Bells, its Christmas time in the city" would ring throughout the house. One of Dad's favorite hymns was "The Old Rugged Cross". We learned the words to the hymn when we were very young, and would sing it with Dad when he would play and sing. Another song that was often shared in our house was a song that accompanied the Walt Disney series: Davey Crockett. Dad only had to hear the song twice before he learned it well enough to play it. "Davey, Davey Crockett, King of the Wild Frontier" was a favorite song for the family. He knew we enjoyed the song and the program and would often get out the mandolin after the program was over. I could never get over how he could play the songs so well after only hearing them a few times. I loved to sing, but I never learned how to play the mandolin. This is something I regret to this day.　　Dad loved to play the mandolin for his family he knew we enjoyed singing, and hearing him play. He was like that. If he could give pleasure to others, he would, especially his family. He was always there, sacrificing his time and efforts to see that his family had enough in their life. I had to mature into a man and have children of my own before I realized how much he had sacrificed.　　I joined the United States Air Force in January of 1962. Whenever I would come home on leave, I would ask Dad to play the mandolin. Nobody played the mandolin like my father. He could touch your soul with the tones that came out of that old mandolin. He seemed to shine when he was playing. You could see his pride in his ability to play so well for his family.　　When Dad was younger, he worked for his father on the farm. His father was a farmer and sharecropped a farm for the man who owned the property. In 1950, our family moved from the farm. Dad had gained employment at the local limestone quarry. When the quarry closed in August of 1957, he had to seek other employment. He worked for Owens Yacht Company in Dundalk, Maryland and for Todd Steel in Point of Rocks, Maryland. While working at Todd Steel, he was involved in an accident. His job was to roll angle iron onto a conveyor so that the welders farther up the production line would have it to complete their job. On this particular day Dad got the third index finger of his left hand mashed between two pieces of steel. The doctor who operated on the finger could not save it, and Dad ended up having the tip of the finger amputated. He didn't lose enough of the finger where it would stop him picking up anything, but it did impact his ability to play the mandolin.　　After the accident, Dad was reluctant to play the mandolin. He felt that he could not play as well as he had before the accident. When I came home on leave and asked him to play he would make excuses for why he couldn't play. Eventually, we would wear him down and he would say "Okay, but remember, I can't hold down on the strings the way I used to" or "Since the accident to this finger I can't play as good". For the family it didn't make any difference that Dad couldn't play as well. We were just glad that he would play. When he played the old mandolin it would carry us back to a cheerful, happier time in our lives. "Davey, Davey Crockett, King of the Wild Frontier", would again be heard in the little town of Bakerton, West Virginia.　　In August of 1993 my father was diagnosed with inoperable lung cancer. He chose not to receive chemotherapy treatments so that he could live out the rest of his life in dignity. About a week before his death, we asked Dad if he would play the mandolin for us. He made excuses but said "okay". He knew it would probably be the last time he would play for us. He tuned up the old mandolin and played a few notes. When I looked around, there was not a dry eye in the family. We saw before us a quiet humble man with an inner strength that comes from knowing God, and living with him in one's life. Dad would never play the mandolin for us again. We felt at the time that he wouldn't have enough strength to play, and that makes the memory of that day even stronger. Dad was doing something he had done all his life, giving. As sick as he was, he was still pleasing others. Dad sure could play that Mandolin! 
+
+statistic:
+{ =1149.0, A=7.0, B=4.0, C=8.0, D=24.0, E=1.0, F=4.0, G=2.0, H=20.0, I=18.0, J=2.0, K=2.0, L=1.0, M=5.0, N=1.0, O=6.0, P=2.0, R=2.0, S=8.0, T=8.0, U=1.0, V=1.0, W=18.0, Y=2.0, a=344.0, b=32.0, c=84.0, d=214.0, e=478.0, f=100.0, g=80.0, h=241.0, i=242.0, j=6.0, k=32.0, l=210.0, m=98.0, n=279.0, o=306.0, p=66.0, q=3.0, r=194.0, s=187.0, t=327.0, u=118.0, v=41.0, w=109.0, x=3.0, y=103.0, z=2.0}
+
+p-distribution:
+[0.22117420596727622,0.09201154956689124,0.06621751684311838,0.0629451395572666,0.05890279114533205,0.05370548604427334,0.0465832531280077,0.04639076034648701,0.0411934552454283,0.04042348411934552,0.03734359961501444,0.03599615014436958,0.02271414821944177,0.020981713185755535,0.019826756496631376,0.019249278152069296,0.01886429258902791,0.01616939364773821,0.015399422521655439,0.012704523580365737,0.007892204042348411,0.006159769008662175,0.006159769008662175,0.0046198267564966315,0.0038498556304138597,0.0034648700673724736,0.0034648700673724736,0.0015399422521655437,0.0015399422521655437,0.0015399422521655437,0.001347449470644851,0.0011549566891241579,0.0011549566891241579,9.624639076034649E-4,7.699711260827719E-4,7.699711260827719E-4,5.774783445620789E-4,5.774783445620789E-4,3.8498556304138594E-4,3.8498556304138594E-4,3.8498556304138594E-4,3.8498556304138594E-4,3.8498556304138594E-4,3.8498556304138594E-4,3.8498556304138594E-4,1.9249278152069297E-4,1.9249278152069297E-4,1.9249278152069297E-4,1.9249278152069297E-4,1.9249278152069297E-4]
+
+entrophy:
+4.181669518192732
+
+				code-table(0)
+ ---------------------------------------------------------------
+|	probability		|	code-word	|	code-word length
+ ---------------------------------------------------------------
+|	0.22117420596727622	|	11		|	2			
+ ---------------------------------------------------------------
+|	0.09201154956689124	|	0000		|	4			
+ ---------------------------------------------------------------
+|	0.06621751684311838	|	0001		|	4			
+ ---------------------------------------------------------------
+|	0.0629451395572666	|	0011		|	4			
+ ---------------------------------------------------------------
+|	0.05890279114533205	|	0101		|	4			
+ ---------------------------------------------------------------
+|	0.05370548604427334	|	1000		|	4			
+ ---------------------------------------------------------------
+|	0.0465832531280077	|	1010		|	4			
+ ---------------------------------------------------------------
+|	0.04639076034648701	|	1011		|	4			
+ ---------------------------------------------------------------
+|	0.0411934552454283	|	01000		|	5			
+ ---------------------------------------------------------------
+|	0.04042348411934552	|	01100		|	5			
+ ---------------------------------------------------------------
+|	0.03734359961501444	|	01110		|	5			
+ ---------------------------------------------------------------
+|	0.03599615014436958	|	01111		|	5			
+ ---------------------------------------------------------------
+|	0.02271414821944177	|	10010		|	5			
+ ---------------------------------------------------------------
+|	0.020981713185755535	|	001000		|	6			
+ ---------------------------------------------------------------
+|	0.019826756496631376	|	001001		|	6			
+ ---------------------------------------------------------------
+|	0.019249278152069296	|	001011		|	6			
+ ---------------------------------------------------------------
+|	0.01886429258902791	|	010011		|	6			
+ ---------------------------------------------------------------
+|	0.01616939364773821	|	011010		|	6			
+ ---------------------------------------------------------------
+|	0.015399422521655439	|	011011		|	6			
+ ---------------------------------------------------------------
+|	0.012704523580365737	|	100111		|	6			
+ ---------------------------------------------------------------
+|	0.007892204042348411	|	0010101		|	7			
+ ---------------------------------------------------------------
+|	0.006159769008662175	|	00101000	|	8			
+ ---------------------------------------------------------------
+|	0.006159769008662175	|	01001000	|	8			
+ ---------------------------------------------------------------
+|	0.0046198267564966315	|	01001001	|	8			
+ ---------------------------------------------------------------
+|	0.0038498556304138597	|	01001011	|	8			
+ ---------------------------------------------------------------
+|	0.0034648700673724736	|	10011010	|	8			
+ ---------------------------------------------------------------
+|	0.0034648700673724736	|	10011011	|	8			
+ ---------------------------------------------------------------
+|	0.0015399422521655437	|	100110000	|	9			
+ ---------------------------------------------------------------
+|	0.0015399422521655437	|	100110001	|	9			
+ ---------------------------------------------------------------
+|	0.0015399422521655437	|	0010100100	|	10			
+ ---------------------------------------------------------------
+|	0.001347449470644851	|	0010100110	|	10			
+ ---------------------------------------------------------------
+|	0.0011549566891241579	|	0010100111	|	10			
+ ---------------------------------------------------------------
+|	0.0011549566891241579	|	0100101000	|	10			
+ ---------------------------------------------------------------
+|	9.624639076034649E-4	|	0100101011	|	10			
+ ---------------------------------------------------------------
+|	7.699711260827719E-4	|	1001100111	|	10			
+ ---------------------------------------------------------------
+|	7.699711260827719E-4	|	01001010011	|	11			
+ ---------------------------------------------------------------
+|	5.774783445620789E-4	|	01001010100	|	11			
+ ---------------------------------------------------------------
+|	5.774783445620789E-4	|	01001010101	|	11			
+ ---------------------------------------------------------------
+|	3.8498556304138594E-4	|	10011001000	|	11			
+ ---------------------------------------------------------------
+|	3.8498556304138594E-4	|	10011001001	|	11			
+ ---------------------------------------------------------------
+|	3.8498556304138594E-4	|	10011001010	|	11			
+ ---------------------------------------------------------------
+|	3.8498556304138594E-4	|	10011001011	|	11			
+ ---------------------------------------------------------------
+|	3.8498556304138594E-4	|	10011001100	|	11			
+ ---------------------------------------------------------------
+|	3.8498556304138594E-4	|	10011001101	|	11			
+ ---------------------------------------------------------------
+|	3.8498556304138594E-4	|	001010010100	|	12			
+ ---------------------------------------------------------------
+|	1.9249278152069297E-4	|	001010010101	|	12			
+ ---------------------------------------------------------------
+|	1.9249278152069297E-4	|	001010010110	|	12			
+ ---------------------------------------------------------------
+|	1.9249278152069297E-4	|	001010010111	|	12			
+ ---------------------------------------------------------------
+|	1.9249278152069297E-4	|	010010100100	|	12			
+ ---------------------------------------------------------------
+|	1.9249278152069297E-4	|	010010100101	|	12			
+ ---------------------------------------------------------------
+|	average code-word length:4.213666987487971						
+ ---------------------------------------------------------------
+|	code-word length variance:2.64424054742798						
+ ---------------------------------------------------------------
+|	code efficiency:99.24062652814632%					
+ ---------------------------------------------------------------
